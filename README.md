@@ -1,0 +1,1 @@
+Temperature Converter built with HTML, CSS, and JavaScript allows users to convert values between Celsius, Fahrenheit, and Kelvin instantly. It features a simple, responsive interface for quick and accurate temperature conversion
